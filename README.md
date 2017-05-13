@@ -1,3 +1,5 @@
+### Rouest's Project Page
+
 Part 1 of Data 822 Project: Exploratory Data Analysis
 This set of commands lays out the process I used to explore the training dataset for the project. I start by importing our trusty friends pandas, numpy and matplotlib and set some default parameters for matplotlib.
 In [5]:
