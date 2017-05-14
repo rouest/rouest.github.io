@@ -1,6 +1,6 @@
 # Welcome! Let's explore some fraud!
 
-This page contains chronicles the efforts that I have made over the last 3 weeks to apply machine learning and feature engineering to a dataset and determine if transaction records may be fraudulent.
+This page contains chronicles the efforts that I have made over the last 4 weeks to apply machine learning and feature engineering to a dataset and determine if transaction records may be fraudulent.
 
 ## Contents
 
