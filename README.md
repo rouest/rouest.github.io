@@ -6,7 +6,10 @@ This page contains chronicles the efforts that I have made over the last 4 weeks
 
 - [Exploratory Data Analysis](https://rouest.github.io/EDA)
 - [Building the Model](https://rouest.github.io/Model)
-- [Requirements](https://rouest.github.io/Requirements)
+- Requirements
+    - pandas==0.18.1
+    - numpy==1.12.1
+    - sklearn==0.18.1
 
 ## Extras
 
